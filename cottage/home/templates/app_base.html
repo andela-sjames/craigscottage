@@ -39,9 +39,25 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+
         
-        {% block main %}
-        {% endblock main %}
+        {% block search %}
+            {% include "snippet_search.html" %}
+        {% endblock search %}
+
+        <!-- ##### Main Content Wrapper Start ##### -->
+        <div class="main-content-wrapper d-flex clearfix">
+
+            {% block sidebar %}
+                {% include "snippet_sidebar.html" %}
+            {% endblock sidebar %}
+
+            {% block main %}
+            {% endblock main %}
+
+        </div>
+        <!-- ##### Main Content Wrapper End ##### -->
+
 
         {% block footer %}
             {% include "snippet_base_footer.html" %}

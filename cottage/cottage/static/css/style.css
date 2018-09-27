@@ -11,3 +11,99 @@
     /* ---------------------------------------
     ##### - PLACE YOUR CUSTOM CSS HERE - #####
     --------------------------------------- */
+
+    .footer_area {
+        background-color: #092439!important;
+    }
+
+    /* .main-content-wrapper .header-area .amado-nav li a::after {
+
+    } */
+
+    .hover-content .line {
+        background-color: #1761A7!important;
+    }
+
+
+    #scrollUp {
+        background-color: #1761A7!important;
+    }
+
+    .footer_area .single_widget_area .footer_menu .navbar-nav .nav-item.active .nav-link {
+        color: #1761A7!important;
+    }
+
+    .footer_area .single_widget_area .footer_menu .navbar-nav .nav-item .nav-link:hover, .footer_area .single_widget_area .footer_menu .navbar-nav .nav-item .nav-link:focus {
+        color: #1761A7!important;
+    }
+
+    .main-content-wrapper .header-area .nav-close {
+        background-color: #1761A7!important;
+    }
+
+    .main-content-wrapper .header-area .amado-nav li a::after {
+        background-color: #1761A7!important;
+    }
+
+    .main-content-wrapper .header-area .amado-nav li a:hover, .main-content-wrapper .header-area .amado-nav li a:focus {
+        color: #1761A7!important; 
+    }
+
+    .main-content-wrapper .header-area .cart-fav-search a:hover, .main-content-wrapper .header-area .cart-fav-search a:focus {
+        color: #1761A7!important; 
+    }
+
+    .main-content-wrapper .header-area .social-info a:hover, .main-content-wrapper .header-area .social-info a:focus {
+        color: #1761A7!important; 
+    }
+
+    .main-content-wrapper .single-product-area .breadcrumb .breadcrumb-item a:hover {
+        color: #1761A7!important; 
+    }
+
+    .main-content-wrapper .single-product-area .single_product_thumb .carousel-indicators li.active {
+        border: 2px solid #1761A7!important; 
+    }
+
+    .main-content-wrapper .single-product-area .single_product_desc .product-meta-data .line {
+        background-color:  #1761A7!important; 
+    }
+
+    .main-content-wrapper .single-product-area .single_product_desc .product-meta-data .product-price {
+        color: #1761A7!important; 
+    }
+
+    .main-content-wrapper .single-product-area .single_product_desc .product-meta-data .ratings-review .ratings i {
+        color: #1761A7!important; 
+    }
+
+    .single-products-catagory .hover-content .line {
+        background-color:  #1761A7!important; 
+    }
+
+    .widget .catagories-menu li a:hover, .widget .catagories-menu li a:focus {
+        color: #1761A7!important; 
+    }
+
+    .widget .catagories-menu li.active a {
+        color: #1761A7!important; 
+    }
+
+    .widget.price .ui-slider-handle {
+        border: 2px solid #1761A7!important; 
+    }
+
+    .widget.price .ui-slider-range.ui-corner-all.ui-widget-header {
+        background-color: #1761A7!important; 
+    }
+    .widget.price .ui-slider-horizontal {
+        background-color: #1761A7!important; 
+    }
+
+    .product-topbar .total-products .view a:first-child {
+        background-color: #1761A7!important; 
+    }
+
+    .amado-btn {
+        background-color: #1761A7!important; 
+    }
